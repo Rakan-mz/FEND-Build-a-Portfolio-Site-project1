@@ -45,6 +45,7 @@ body {
 {
 	.im{
 		height: 10%;
+		width: 100px;
 
 	}
 	/* .pra{
@@ -52,7 +53,7 @@ body {
 	} */
 	.jumbotron p {
     margin-bottom: 15px;
-    font-size: 17px;
+    font-size: 12px;
     font-weight: 200;
     padding-top: 25px;
 }.h1, h1 {
@@ -63,8 +64,9 @@ body {
 
 {
 	.im{
+/* 		//an update for width image */
 		height:10%;
-		align:right;
+  		  width: 100px;
 		display:inline;
 	}
 	.jumbotron .h1, .jumbotron h1 {
